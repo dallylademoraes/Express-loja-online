@@ -78,14 +78,14 @@ Tarefas:
 ![Imagem](pagina-principal-usuario)
 
 ## Requisitos
-1. **Barra de Busca**: Deverá ser exibida uma barra de busca no cabeçalho da página, permitindo buscas por produtos específicos.
-2. **Botão de Atualizar CEP**: Deverá ser incluído um botão para atualizar o CEP na barra de navegação da página, permitindo o cálculo do frete e a estimativa dos prazos de entrega.
-3. **Botão de Login/Sign Up**: Um botão de login/sign up deverá estar disponível na barra de navegação da página, indicando se o usuário está logado ou não. Além disso, o botão permitirá um acesso rápido ao cadastro, caso o usuário não tenha uma conta.
-4. **Seção de Devolução e Pedidos**: Fornecer uma seção de Devolução e Pedidos, onde o usuário poderá visualizar o histórico de pedidos já feitos e entrar em processo de devolução, caso queira.
-5. **Carrinho de Compras**: Exibir o carrinho de compras na barra de navegação, deixando de fácil acesso para o usuário a lista de produtos que não foram finalizados.
-6. **Carrossel de Produtos**: Apresentar um carrossel de produtos em destaque, patrocinados e em oferta, exibidos de maneira dinâmica, de fácil visualização para o usuário.
-7. **Categorias de Produtos**: Organizar as categorias de produtos na barra de navegação, bem visível, facilitando a navegação do usuário entre os produtos da loja.
-8. **Histórico de Navegação**: Mostrar próximo do rodapé da página o histórico de navegação do usuário, listando os produtos vistos recentemente.
+1. Deverá ser exibida uma barra de busca no cabeçalho da página, permitindo buscas por produtos específicos.
+2. Deverá ser incluído um botão para atualizar o CEP na barra de navegação da página, permitindo o cálculo do frete e a estimativa dos prazos de entrega.
+3. Um botão de login/sign up deverá estar disponível na barra de navegação da página, indicando se o usuário está logado ou não. Além disso, o botão permitirá um acesso rápido ao cadastro, caso o usuário não tenha uma conta.
+4. Fornecer uma seção de Devolução e Pedidos, onde o usuário poderá visualizar o histórico de pedidos já feitos e entrar em processo de devolução, caso queira.
+5. Exibir o carrinho de compras na barra de navegação, deixando de fácil acesso para o usuário a lista de produtos que não foram finalizados.
+6. Apresentar um carrossel de produtos em destaque, patrocinados e em oferta, exibidos de maneira dinâmica, de fácil visualização para o usuário.
+7. Organizar as categorias de produtos na barra de navegação, bem visível, facilitando a navegação do usuário entre os produtos da loja.
+8. Mostrar próximo do rodapé da página o histórico de navegação do usuário, listando os produtos vistos recentemente.
 9. **Menu Adicional**:
    - **Todos**: Menu que visualiza todas as categorias, acesso rápido às configurações e login.
    - **Venda na Express**: Acesso rápido que encaminha o usuário para o formulário de cadastro para se tornar um vendedor da loja online, ou se já logado como vendedor, o encaminha para a página principal do vendedor.
@@ -98,14 +98,14 @@ Como usuário de uma loja online, quero acessar uma página principal que facili
 
 ## Critérios de Aceitação
 
-1. **Busca de Produtos**: A busca deve retornar resultados relevantes e atualizações em tempo real.
-2. **Botão de Atualizar CEP**: O botão de atualizar CEP deve permitir a inserção do mesmo e, após a atualização, recalcular o frete e a estimativa de entrega para os produtos do carrinho.
-3. **Botão de Login/Sign Up**: O botão de login/sign up deve sinalizar se o usuário está logado ou não. Se o usuário não estiver logado, o botão deve oferecer um acesso rápido ao formulário de cadastro.
-4. **Carrinho de Compras**: O ícone de carrinho dará acesso a todos os pedidos ainda pendentes.
-5. **Carrossel de Produtos**: Os anúncios no carrossel deverão ser atraentes e de fácil navegação.
-6. **Categorias de Produtos**: Ao clicar na categoria desejada, o usuário é direcionado a uma página com produtos específicos da categoria selecionada.
-7. **Histórico de Navegação**: A seção de histórico de navegação deve permitir excluir ou visualizar histórico.
-8. **Menu Adicional**: O menu da barra de navegação deve incluir as opções "Todos", "Venda na Express", "Comprar Novamente" e "Oferta do Dia".
+1. A busca deve retornar resultados relevantes e atualizações em tempo real.
+2. O botão de atualizar CEP deve permitir a inserção do mesmo e, após a atualização, recalcular o frete e a estimativa de entrega para os produtos do carrinho.
+3. O botão de login/sign up deve sinalizar se o usuário está logado ou não. Se o usuário não estiver logado, o botão deve oferecer um acesso rápido ao formulário de cadastro.
+4. O ícone de carrinho dará acesso a todos os pedidos ainda pendentes.
+5. Os anúncios no carrossel deverão ser atraentes e de fácil navegação.
+6. Ao clicar na categoria desejada, o usuário é direcionado a uma página com produtos específicos da categoria selecionada.
+7. A seção de histórico de navegação deve permitir excluir ou visualizar histórico.
+8. O menu da barra de navegação deve incluir as opções "Todos", "Venda na Express", "Comprar Novamente" e "Oferta do Dia".
 
 ## Página de Listagem do Usuário
 ### Protótipo
@@ -113,12 +113,12 @@ Como usuário de uma loja online, quero acessar uma página principal que facili
 
 ### Requisitos
 
-1. **Filtro de Frete Grátis**: Deverá ser exibida uma opção de filtro para selecionar produtos elegíveis para frete grátis. A opção deve estar claramente visível e permitir a seleção de produtos que atendem a esse critério.
-2. **Controle Deslizante de Preço**: Um controle deslizante (range slider) deverá estar disponível para o usuário ajustar o intervalo de preço dos produtos. O slider deve ser intuitivo e exibir o intervalo de preços selecionado em tempo real, atualizando os resultados da busca conforme o ajuste.
-3. **Filtro de Oferta Especial**: O filtro deve incluir uma opção para visualizar rapidamente produtos que estão em oferta especial por tempo limitado, facilitando o acesso às ofertas do dia.
-4. **Filtro de Condição dos Produtos**: Deverá haver uma opção no filtro para selecionar a condição dos produtos, permitindo ao usuário escolher entre "Novo" ou "Usado".
-5. **Acesso Rápido a Ofertas**: Deverá ter um acesso rápido à “Ofertas do Dia” e “Todos os Descontos”.
-6. **Resultado do Produto**: No resultado do produto buscado deverá aparecer a imagem principal do produto, nome, informações, preço e o botão de adicionar o produto ao carrinho.
+1. Deverá ser exibida uma opção de filtro para selecionar produtos elegíveis para frete grátis. A opção deve estar claramente visível e permitir a seleção de produtos que atendem a esse critério.
+2. Um controle deslizante (range slider) deverá estar disponível para o usuário ajustar o intervalo de preço dos produtos. O slider deve ser intuitivo e exibir o intervalo de preços selecionado em tempo real, atualizando os resultados da busca conforme o ajuste.
+3.  O filtro deve incluir uma opção para visualizar rapidamente produtos que estão em oferta especial por tempo limitado, facilitando o acesso às ofertas do dia.
+4. Deverá haver uma opção no filtro para selecionar a condição dos produtos, permitindo ao usuário escolher entre "Novo" ou "Usado".
+5. Deverá ter um acesso rápido à “Ofertas do Dia” e “Todos os Descontos”.
+6. No resultado do produto buscado deverá aparecer a imagem principal do produto, nome, informações, preço e o botão de adicionar o produto ao carrinho.
 
 ### User Story: Página de Listagem do Usuário
 
