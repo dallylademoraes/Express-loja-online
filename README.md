@@ -105,7 +105,6 @@ Como usuário de uma loja online, quero acessar uma página principal que facili
 5. Os anúncios no carrossel deverão ser atraentes e de fácil navegação.
 6. Ao clicar na categoria desejada, o usuário é direcionado a uma página com produtos específicos da categoria selecionada.
 7. A seção de histórico de navegação deve permitir excluir ou visualizar histórico.
-8. O menu da barra de navegação deve incluir as opções "Todos", "Venda na Express", "Comprar Novamente" e "Oferta do Dia".
 
 ## Página de Listagem do Usuário
 ### Protótipo
@@ -126,12 +125,12 @@ Como usuário da loja online, quero poder filtrar os produtos buscados para visu
 
 ### Critérios de Aceitação
 
-1. **Posição e Visibilidade do Filtro**: O filtro deve estar posicionado à esquerda da página de busca e ser visível e acessível sem necessidade de rolar a página.
-2. **Rotulagem Clara**: Cada opção do filtro deve ser claramente rotulada e permitir a seleção/desmarcação com facilidade.
-3. **Atualização em Tempo Real**: O filtro deve atualizar os resultados da busca em tempo real, refletindo imediatamente as seleções feitas pelo usuário.
-4. **Controle Deslizante de Preço**: O controle deslizante de preço deve ser ajustável e exibir o intervalo de preços atual em tempo real.
-5. **Visibilidade das Opções de Filtro**: As opções de filtro (frete grátis, departamento, preço, ofertas do dia, descontos e condição) devem ser mantidas visíveis e permitir múltiplas seleções quando aplicável.
-6. **Adicionar ao Carrinho**: Ao apertar em “Adicionar ao carrinho”, o produto é salvo no carrinho, aguardando finalização.
+1. O filtro deve estar posicionado à esquerda da página de busca e ser visível e acessível sem necessidade de rolar a página.
+2. Cada opção do filtro deve ser claramente rotulada e permitir a seleção/desmarcação com facilidade.
+3. O filtro deve atualizar os resultados da busca em tempo real, refletindo imediatamente as seleções feitas pelo usuário.
+4. O controle deslizante de preço deve ser ajustável e exibir o intervalo de preços atual em tempo real.
+5. As opções de filtro (frete grátis, departamento, preço, ofertas do dia, descontos e condição) devem ser mantidas visíveis e permitir múltiplas seleções quando aplicável.
+6. Ao apertar em “Adicionar ao carrinho”, o produto é salvo no carrinho, aguardando finalização.
 
 # Login
 
