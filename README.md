@@ -274,7 +274,7 @@ Como um usuário de um site de compras, eu quero poder visualizar, ajustar a qua
 6. A opção de voltar deve levar o usuário à página anterior ou à loja.
 
 ## Finalização de Pedidos
-![Imagem](Finalização_de_pedido.png)
+![Imagem](Finalizacao_de_pedido.png)
 ### Requisitos
 1. O sistema deve exibir uma barra no topo da página com o título "Dados da Compra" e uma seta que permite ao usuário retornar à página do carrinho.
 2. O sistema deve listar todos os itens comprados, exibindo nome, quantidade e valor de cada produto ao lado.
