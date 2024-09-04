@@ -75,7 +75,7 @@ Tarefas:
     
 # Página Principal do Usuário
 ### Protótipo
-![Imagem](pagina-principal-usuario-2.0)
+![Imagem](/fotos/pagina-principal-usuario-2.0)
 
 ## Requisitos
 1. Deverá ser exibida uma barra de busca no cabeçalho da página, permitindo buscas por produtos específicos.
@@ -109,7 +109,7 @@ Como usuário de uma loja online, quero acessar uma página principal que facili
 
 ## Página de Listagem do Usuário
 ### Protótipo
-![Imagem](pagina-listagem-usuario)
+![Imagem](/fotos/pagina-listagem-usuario)
 
 ### Requisitos
 
@@ -136,7 +136,7 @@ Como usuário da loja online, quero poder filtrar os produtos buscados para visu
 # Login
 
 ### Protótipo
-![Imagem](Pag_login.PNG)
+![Imagem](/fotos/Pag_login.PNG)
 
 ## Requisitos
 
@@ -160,7 +160,7 @@ Como um usuário cadastrado, eu quero poder inserir meu email e senha na tela de
 # Cadastro de usuários
 
 ### Protótipo
-![Imagem](Pag_cadastro_usuario.PNG)
+![Imagem](/fotos/Pag_cadastro_usuario.PNG)
 
 ## Requisitos
 
@@ -192,7 +192,7 @@ Como um novo usuário, eu quero preencher um formulário de cadastro com meus da
 # Página individual do usuário
 
 ### Protótipo
-![Imagem](Pag_dados_usuario.PNG)
+![Imagem](/fotos/Pag_dados_usuario.PNG)
 
 ## Requisitos
 1. O sistema deve permitir que o usuário visualize e atualize os seguintes dados pessoais:
@@ -249,7 +249,7 @@ Como um usuário autenticado, eu quero poder visualizar e atualizar meus dados p
 8. O sistema deve exibir o status atualizado dos pedidos de forma precisa e em tempo real.
 
 ## Carrinho de Compras
-![Imagem](Carrinho.png)
+![Imagem](/fotos/Carrinho.png)
 ### Requisitos
 
 1. O sistema deve permitir que o usuário visualize todos os itens adicionados ao carrinho, exibindo imagem, nome, descrição, quantidade e preço de cada produto.
@@ -274,7 +274,7 @@ Como um usuário de um site de compras, eu quero poder visualizar, ajustar a qua
 6. A opção de voltar deve levar o usuário à página anterior ou à loja.
 
 ## Finalização de Pedidos
-![Imagem](Finalizacao_de_pedido.png)
+![Imagem](/fotos/Finalizacao_de_pedido.png)
 ### Requisitos
 1. O sistema deve exibir uma barra no topo da página com o título "Dados da Compra" e uma seta que permite ao usuário retornar à página do carrinho.
 2. O sistema deve listar todos os itens comprados, exibindo nome, quantidade e valor de cada produto ao lado.
