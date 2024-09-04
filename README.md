@@ -272,3 +272,28 @@ Como um usuário de um site de compras, eu quero poder visualizar, ajustar a qua
 4. O ícone de lixeira deve permitir ao usuário remover itens, com o total sendo recalculado automaticamente.
 5. O botão "Fechar Pedido" deve redirecionar o usuário para a página de pagamento.
 6. A opção de voltar deve levar o usuário à página anterior ou à loja.
+
+## Finalização de Pedidos
+![Imagem](Finalização_de_pedido.png)
+### Requisitos
+1. O sistema deve exibir uma barra no topo da página com o título "Dados da Compra" e uma seta que permite ao usuário retornar à página do carrinho.
+2. O sistema deve listar todos os itens comprados, exibindo nome, quantidade e valor de cada produto ao lado.
+3. O sistema deve exibir o valor total dos itens antes da aplicação de frete e descontos.
+4. O sistema deve mostrar os custos de frete e manuseio, com seus respectivos valores ao lado.
+5. O sistema deve exibir o total geral do pedido, somando o valor dos itens com os custos de frete e manuseio.
+6. O sistema deve mostrar o valor das promoções aplicadas, com o desconto exibido ao lado.
+7. O sistema deve apresentar o valor total final do pedido, considerando o frete, manuseio e descontos de promoções.
+8. O botão "Finalizar Compra" deve estar disponível para concluir a transação e gerar uma confirmação do pedido.
+
+### User Story: Finalização do Pedido
+Como um usuário de um site de compras, eu quero visualizar todos os detalhes da minha compra, incluindo itens, frete, promoções e total final, para que eu possa garantir que todas as informações estão corretas antes de concluir a compra.
+
+### Critérios de Aceitação
+1. A barra superior deve exibir "Dados da Compra" e incluir uma seta que permita ao usuário voltar para a página do carrinho.
+2. O sistema deve exibir corretamente todos os itens comprados, com seus respectivos valores.
+3. Os valores de frete e manuseio devem ser exibidos ao lado dos respectivos rótulos.
+4. O total geral do pedido deve ser apresentado com clareza, somando os valores dos itens, frete e manuseio.
+5. O desconto de promoções aplicadas deve ser claramente indicado, com o valor da promoção destacado.
+6. O valor final do pedido deve refletir todos os custos e descontos, sendo exibido como "Total do Pedido".
+7. O botão "Finalizar Compra" deve redirecionar o usuário para uma página de confirmação de pedido, validando todas as informações inseridas.
+
