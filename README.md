@@ -136,7 +136,7 @@ Como usuário da loja online, quero poder filtrar os produtos buscados para visu
 ## Login
 
 ### Protótipo
-![Imagem](Pag_login.png)
+![Imagem](Pag_login.PNG)
 
 ## Requisitos
 
@@ -160,7 +160,7 @@ Como um usuário cadastrado, eu quero poder inserir meu email e senha na tela de
 ## Cadastro de usuários
 
 ### Protótipo
-![Imagem](Pag_cadastro_usuario.png)
+![Imagem](Pag_cadastro_usuario.PNG)
 
 ## Requisitos
 
@@ -192,7 +192,7 @@ Como um novo usuário, eu quero preencher um formulário de cadastro com meus da
 ## Página individual do usuário
 
 ### Protótipo
-![Imagem](Pag_dados_usuario.png)
+![Imagem](Pag_dados_usuario.PNG)
 
 ## Requisitos
 1. O sistema deve permitir que o usuário visualize e atualize os seguintes dados pessoais:
