@@ -133,3 +133,27 @@ Como usuário da loja online, quero poder filtrar os produtos buscados para visu
 5. **Visibilidade das Opções de Filtro**: As opções de filtro (frete grátis, departamento, preço, ofertas do dia, descontos e condição) devem ser mantidas visíveis e permitir múltiplas seleções quando aplicável.
 6. **Adicionar ao Carrinho**: Ao apertar em “Adicionar ao carrinho”, o produto é salvo no carrinho, aguardando finalização.
 
+## Carrinho de Compras
+
+### Requisitos
+
+1. O sistema deve permitir que o usuário visualize todos os itens adicionados ao carrinho, exibindo imagem, nome, descrição, quantidade e preço de cada produto.
+2. O sistema deve possibilitar que o usuário selecione ou desmarque produtos no carrinho.
+3. O sistema deve oferecer a opção de remover itens do carrinho de compras através de um ícone de lixeira.
+4. O sistema deve permitir que o usuário ajuste a quantidade de cada item diretamente no carrinho, usando botões de "+" e "-".
+5. O sistema deve calcular e exibir o valor total dos itens selecionados no carrinho, com base na quantidade ajustada.
+6. O sistema deve fornecer um botão "Fechar Pedido" que, ao ser clicado, deve levar o usuário para a etapa de pagamento.
+7. O sistema deve incluir uma opção para o usuário retornar à página anterior.
+8. O sistema deve atualizar automaticamente o valor total ao modificar a seleção, a quantidade, ou ao remover itens do carrinho.
+
+### User Story: Gerenciamento do Carrinho de Compras
+
+Como um usuário de um site de compras, eu quero poder visualizar, ajustar a quantidade e remover itens no carrinho, para que eu possa revisar e confirmar minha seleção de produtos e quantidades antes de finalizar a compra.
+
+### Critérios de Aceitação
+1. O carrinho deve exibir corretamente todos os itens adicionados com suas respectivas informações, incluindo quantidade.
+2. O usuário deve poder marcar ou desmarcar produtos, e o valor total deve ser atualizado em tempo real.
+3. O usuário deve poder ajustar a quantidade de itens usando botões de "+" e "-".
+4. O ícone de lixeira deve permitir ao usuário remover itens, com o total sendo recalculado automaticamente.
+5. O botão "Fechar Pedido" deve redirecionar o usuário para a página de pagamento.
+6. A opção de voltar deve levar o usuário à página anterior ou à loja.
