@@ -249,7 +249,7 @@ Como um usuário autenticado, eu quero poder visualizar e atualizar meus dados p
 8. O sistema deve exibir o status atualizado dos pedidos de forma precisa e em tempo real.
 
 ## Carrinho de Compras
-![Imagem](Carrinho)
+![Imagem](Carrinho.png)
 ### Requisitos
 
 1. O sistema deve permitir que o usuário visualize todos os itens adicionados ao carrinho, exibindo imagem, nome, descrição, quantidade e preço de cada produto.
