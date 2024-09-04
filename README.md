@@ -146,17 +146,48 @@ Como usuário da loja online, quero poder filtrar os produtos buscados para visu
 4. O sistema deve exibir mensagens de erro em caso de email ou senha inválidos.
 5. O campo de email deve validar o formato correto de endereço eletrônico antes de permitir o envio do formulário.
 
-### User Story: Login no Sistema  
+## User Story: Login no Sistema  
 
 Como um usuário cadastrado, eu quero poder inserir meu email e senha na tela de login, para que eu possa acessar minha conta e utilizar o sistema de compras.
 
-### Critérios de Aceitação:
+## Critérios de Aceitação:
 1. O campo de email deve aceitar apenas endereços válidos.
 2. O campo de senha deve permitir o mínimo de 8 caracteres.
 3. O botão "Acessar" deve estar desativado até que todos os campos estejam preenchidos corretamente.
 4. Em caso de erro de autenticação, o sistema deve exibir uma mensagem de erro clara, sem revelar detalhes de segurança.
 5. A opção "Cadastrar-se" deve redirecionar o usuário para o formulário de registro.
 
+## Cadastro de usuários
+
+### Protótipo
+![Imagem](Pag_cadastro_usuario)
+
+## Requisitos
+
+1. O sistema deve permitir que o usuário insira os seguintes dados no formulário de cadastro:
+   - Nome
+   - Telefone
+   - Categoria (com uma opção de seleção)
+   - Email
+   - Senha
+   - Confirmação de senha
+2. O sistema deve validar os campos obrigatórios antes de permitir o envio do formulário.
+3. O sistema deve verificar se o email já está registrado e informar o usuário em caso positivo.
+4. A senha deve ter no mínimo 8 caracteres e deve ser confirmada no campo "Confirme a senha".
+5. O botão "Cadastrar" deve registrar o usuário e redirecioná-lo para a página inicial ou uma página de boas-vindas.
+6. O sistema deve exibir mensagens de erro específicas para cada campo inválido ou faltante.
+7. O campo de ‘Categoria’ deve conter uma lista suspensa com opções que podem representar diferentes perfis de usuários, como "Comprador" ou "Vendedor".
+
+##User Story: Cadastro de Usuário  
+
+Como um novo usuário, eu quero preencher um formulário de cadastro com meus dados pessoais e preferências, para que eu possa criar uma conta e acessar o site para realizar compras.
+
+##Critérios de Aceitação:
+1. Todos os campos obrigatórios devem estar corretamente preenchidos antes de habilitar o botão "Cadastrar".
+2. A confirmação de senha deve corresponder exatamente ao campo de senha.
+3. O campo de ‘Categoria’ deve conter uma lista suspensa com pelo menos duas opções, por exemplo, "Comprador" e "Vendedor".
+4. Caso o email já esteja em uso, o sistema deve exibir uma mensagem clara e permitir que o usuário insira outro email.
+5. Após o cadastro bem-sucedido, o sistema deve redirecionar o usuário para uma página de boas-vindas ou a página inicial logada.
 
 ## Carrinho de Compras
 
