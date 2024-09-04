@@ -133,7 +133,7 @@ Como usuário da loja online, quero poder filtrar os produtos buscados para visu
 5. **Visibilidade das Opções de Filtro**: As opções de filtro (frete grátis, departamento, preço, ofertas do dia, descontos e condição) devem ser mantidas visíveis e permitir múltiplas seleções quando aplicável.
 6. **Adicionar ao Carrinho**: Ao apertar em “Adicionar ao carrinho”, o produto é salvo no carrinho, aguardando finalização.
 
-## Login
+# Login
 
 ### Protótipo
 ![Imagem](Pag_login.PNG)
@@ -157,7 +157,7 @@ Como um usuário cadastrado, eu quero poder inserir meu email e senha na tela de
 4. Em caso de erro de autenticação, o sistema deve exibir uma mensagem de erro clara, sem revelar detalhes de segurança.
 5. A opção "Cadastrar-se" deve redirecionar o usuário para o formulário de registro.
 
-## Cadastro de usuários
+# Cadastro de usuários
 
 ### Protótipo
 ![Imagem](Pag_cadastro_usuario.PNG)
@@ -189,7 +189,7 @@ Como um novo usuário, eu quero preencher um formulário de cadastro com meus da
 4. Caso o email já esteja em uso, o sistema deve exibir uma mensagem clara e permitir que o usuário insira outro email.
 5. Após o cadastro bem-sucedido, o sistema deve redirecionar o usuário para uma página de boas-vindas ou a página inicial logada.
 
-## Página individual do usuário
+# Página individual do usuário
 
 ### Protótipo
 ![Imagem](Pag_dados_usuario.PNG)
