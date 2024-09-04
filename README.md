@@ -133,6 +133,31 @@ Como usuário da loja online, quero poder filtrar os produtos buscados para visu
 5. **Visibilidade das Opções de Filtro**: As opções de filtro (frete grátis, departamento, preço, ofertas do dia, descontos e condição) devem ser mantidas visíveis e permitir múltiplas seleções quando aplicável.
 6. **Adicionar ao Carrinho**: Ao apertar em “Adicionar ao carrinho”, o produto é salvo no carrinho, aguardando finalização.
 
+## Login
+
+### Protótipo
+![Imagem](Pag_login)
+
+## Requisitos
+
+1. O sistema deve permitir que o usuário insira seu email e senha para autenticar-se.
+2. O sistema deve ter um botão Acessar que, ao ser clicado, deve verificar as credenciais e, se corretas, redirecionar o usuário para a página inicial.
+3. O sistema deve fornecer uma opção para Cadastrar-se, caso o usuário ainda não tenha uma conta.
+4. O sistema deve exibir mensagens de erro em caso de email ou senha inválidos.
+5. O campo de email deve validar o formato correto de endereço eletrônico antes de permitir o envio do formulário.
+
+### User Story: Login no Sistema  
+
+Como um usuário cadastrado, eu quero poder inserir meu email e senha na tela de login, para que eu possa acessar minha conta e utilizar o sistema de compras.
+
+### Critérios de Aceitação:
+1. O campo de email deve aceitar apenas endereços válidos.
+2. O campo de senha deve permitir o mínimo de 8 caracteres.
+3. O botão "Acessar" deve estar desativado até que todos os campos estejam preenchidos corretamente.
+4. Em caso de erro de autenticação, o sistema deve exibir uma mensagem de erro clara, sem revelar detalhes de segurança.
+5. A opção "Cadastrar-se" deve redirecionar o usuário para o formulário de registro.
+
+
 ## Carrinho de Compras
 
 ### Requisitos
