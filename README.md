@@ -74,6 +74,7 @@ Tarefas:
   - Testes de integração de todo o sistema.
     
 # Página Principal do Usuário
+### Protótipo
 ![Imagem](pagina-principal-usuario)
 
 ## Requisitos
