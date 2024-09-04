@@ -74,6 +74,7 @@ Tarefas:
   - Testes de integração de todo o sistema.
     
 # Página Principal do Usuário
+![Imagem](pagina-principal-usuario)
 
 ## Requisitos
 1. **Barra de Busca**: Deverá ser exibida uma barra de busca no cabeçalho da página, permitindo buscas por produtos específicos.
@@ -106,6 +107,8 @@ Como usuário de uma loja online, quero acessar uma página principal que facili
 8. **Menu Adicional**: O menu da barra de navegação deve incluir as opções "Todos", "Venda na Express", "Comprar Novamente" e "Oferta do Dia".
 
 ## Página de Listagem do Usuário
+### Protótipo
+![Imagem](pagina-listagem-usuario)
 
 ### Requisitos
 
