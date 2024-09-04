@@ -75,7 +75,7 @@ Tarefas:
     
 # Página Principal do Usuário
 ### Protótipo
-![Imagem](pagina-principal-usuario)
+![Imagem](Página de Listagem - usuario.jpg)
 
 ## Requisitos
 1. Deverá ser exibida uma barra de busca no cabeçalho da página, permitindo buscas por produtos específicos.
