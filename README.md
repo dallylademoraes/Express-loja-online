@@ -297,3 +297,68 @@ Como um usuário de um site de compras, eu quero visualizar todos os detalhes da
 6. O valor final do pedido deve refletir todos os custos e descontos, sendo exibido como "Total do Pedido".
 7. O botão "Finalizar Compra" deve redirecionar o usuário para uma página de confirmação de pedido, validando todas as informações inseridas.
 
+## Página Individual do Produto
+![Imagem](/fotos/PaginaIndividual.png)
+### Requisitos
+1. O sistema deve exibir o nome do produto, preço com desconto e preço original.
+2. Deve haver botões para “Comprar” e “Adicionar ao carrinho”.
+3. O sistema deve permitir a visualização das imagens do produto.
+4. Informações detalhadas sobre o produto devem estar acessíveis na cessão "Dados do Produto".
+5. O sistema deve apresentar produtos relacionados para proporcionar opções adicionais ao usuário.
+
+### User Story: Visualização do Produto
+Como um cliente interessado em ferramentas elétricas, eu quero visualizar detalhes específicos de uma parafusadeira e furadeira sem fio na página do produto, para que eu possa avaliar suas características e decidir sobre minha compra.
+
+### Critérios de Aceitação
+1. A página deve exibir claramente o nome do produto, preço com desconto e preço original.
+2. Deve haver opções claras para adicionar o produto ao carrinho ou comprar imediatamente.
+3. Imagens adicionais do produto devem estar disponíveis para visualização.
+4. Informações detalhadas sobre o produto devem ser acessíveis através da cessão de "Dados do Produto".
+5. O sistema deve apresentar produtos relacionados para proporcionar opções adicionais ao usuário.  
+
+## Dashboard Vendedor - Faturamento
+![Imagem](</fotos/Pagina Produtos - Faturamento.png>)
+### Requisitos
+1.  O sistema deve exibir uma saudação personalizada ao vendedor, incluindo o nome do usuário.
+2. Deve haver uma seção de “Mais Vendidos” mostrando os produtos mais vendidos com imagens e detalhes.
+3. O sistema deve incluir uma seção “Em Promoção” destacando produtos com descontos.
+4. O vendedor deve poder acessar facilmente as avaliações e atualizações do seu negócio.
+5. O sistema deve permitir a navegação para outras seções importantes, como “Meus Produtos”, “Configurações” e “Faturamento”.
+5. Ao passar o mouse sobre um produto, o sistema deve exibir informações adicionais, como avaliações, quantidade vendida e opções de ação rápida (como editar e ver a página do produto).
+6. Na seção “Meus Produtos”, o vendedor deve ter a opção de gerenciar produtos, incluindo criar, editar ou remover um produto.
+
+### User Story: Tela de faturamento
+Como um vendedor, eu quero visualizar e gerenciar minhas faturas de forma eficiente, para que eu possa acompanhar meu faturamento e tomar ações necessárias rapidamente.
+
+### Criterios de Aceitação
+1. A página deve exibir uma saudação personalizada com o nome do vendedor.
+2. A seção “Mais Vendidos” deve listar os produtos mais vendidos com imagens e detalhes.
+3. A seção “Em Promoção” deve destacar produtos com descontos e preços promocionais.
+4. O vendedor deve poder acessar facilmente as avaliações e atualizações do seu negócio.
+5. A navegação para outras seções importantes deve ser clara e acessível.
+6. Ao passar o mouse sobre um produto, deve aparecer uma janela pop-up com informações adicionais, como avaliações, quantidade vendida e opções de ação rápida (como editar ou remover o produto).
+7. Na seção “Meus Produtos”, o vendedor deve ter a opção de gerenciar produtos, incluindo criar, editar ou remover um produto.
+
+## Dashboard Vendedor - Seus Produtos
+![imagem](</fotos/vendedor.png>)
+1. O sistema deve exibir uma saudação personalizada ao vendedor, incluindo o nome do usuário.
+2. Deve haver uma seção de “Mais Vendidos” mostrando os produtos mais vendidos com imagens e detalhes.
+3. O sistema deve incluir uma seção “Em Promoção” destacando produtos com descontos.
+4. O vendedor deve poder acessar facilmente as avaliações e atualizações do seu negócio.
+5. O sistema deve permitir a navegação para outras seções importantes, como “Página Principal”, “Configurações” e “Faturamento”.
+6. Ao passar o mouse sobre um produto, o sistema deve exibir informações adicionais, como avaliações, quantidade vendida e opções de ação rápida (como editar e ver a página do produto).
+7. Na seção “Meus Produtos”, o vendedor deve ter a opção de gerenciar produtos, incluindo criar, editar ou remover um produto.
+8. O sistema deve incluir links de rodapé para páginas como “Sobre a Express?”, “Trabalhe Conosco”, e outras informações relevantes.
+
+### User Story: Tela dos Produtos
+Como um vendedor, eu quero visualizar e gerenciar meus produtos de forma eficiente, para que eu possa acompanhar meu inventário e tomar ações necessárias rapidamente.
+
+### Criterios de Aceitação
+1. A página deve exibir uma saudação personalizada com o nome do vendedor.
+2. A seção “Mais Vendidos” deve listar os produtos mais vendidos com imagens e detalhes.
+3. A seção “Em Promoção” deve destacar produtos com descontos e preços promocionais.
+4. O vendedor deve poder acessar facilmente as avaliações e atualizações do seu negócio.
+5. A navegação para outras seções importantes deve ser clara e acessível.
+6. Ao passar o mouse sobre um produto, deve aparecer uma janela pop-up com informações adicionais, como avaliações, quantidade vendida e opções de ação rápida (como editar ou remover o produto).
+7. Na seção “Meus Produtos”, o vendedor deve ter a opção de gerenciar produtos, incluindo criar, editar ou remover um produto.
+8. O rodapé deve incluir links para páginas como “Sobre a Express?”, “Trabalhe Conosco”, e outras informações relevantes.
