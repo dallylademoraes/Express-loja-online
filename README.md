@@ -60,7 +60,7 @@ Tarefas:
   - Integração com o backend para armazenar os produtos criados.
   - Testes de funcionalidades para vendedores.
 
-## Sprint 5: Finalização da Compra e Integração
+## Sprint 5: Finalização de Pedidos e Integração
 Objetivo: Concluir o fluxo de compra, incluindo pagamento e confirmação.
 Tarefas:
   - Desenvolvimento da Página de Finalização da Compra com opções de pagamento e resumo do pedido.
