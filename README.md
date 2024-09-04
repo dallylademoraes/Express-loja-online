@@ -136,7 +136,7 @@ Como usuário da loja online, quero poder filtrar os produtos buscados para visu
 ## Login
 
 ### Protótipo
-![Imagem](Pag_login)
+![Imagem](Pag_login.png)
 
 ## Requisitos
 
@@ -160,7 +160,7 @@ Como um usuário cadastrado, eu quero poder inserir meu email e senha na tela de
 ## Cadastro de usuários
 
 ### Protótipo
-![Imagem](Pag_cadastro_usuario)
+![Imagem](Pag_cadastro_usuario.png)
 
 ## Requisitos
 
@@ -178,16 +178,75 @@ Como um usuário cadastrado, eu quero poder inserir meu email e senha na tela de
 6. O sistema deve exibir mensagens de erro específicas para cada campo inválido ou faltante.
 7. O campo de ‘Categoria’ deve conter uma lista suspensa com opções que podem representar diferentes perfis de usuários, como "Comprador" ou "Vendedor".
 
-##User Story: Cadastro de Usuário  
+## User Story: Cadastro de Usuário  
 
 Como um novo usuário, eu quero preencher um formulário de cadastro com meus dados pessoais e preferências, para que eu possa criar uma conta e acessar o site para realizar compras.
 
-##Critérios de Aceitação:
+## Critérios de Aceitação:
 1. Todos os campos obrigatórios devem estar corretamente preenchidos antes de habilitar o botão "Cadastrar".
 2. A confirmação de senha deve corresponder exatamente ao campo de senha.
 3. O campo de ‘Categoria’ deve conter uma lista suspensa com pelo menos duas opções, por exemplo, "Comprador" e "Vendedor".
 4. Caso o email já esteja em uso, o sistema deve exibir uma mensagem clara e permitir que o usuário insira outro email.
 5. Após o cadastro bem-sucedido, o sistema deve redirecionar o usuário para uma página de boas-vindas ou a página inicial logada.
+
+## Página individual do usuário
+
+### Protótipo
+![Imagem](Pag_dados_usuario.png)
+
+## Requisitos
+1. O sistema deve permitir que o usuário visualize e atualize os seguintes dados pessoais:
+   - Nome
+   - Telefone
+   - Email
+   - Gênero
+   - CPF
+   - Data de nascimento
+   - Categoria
+2. O sistema deve validar todos os campos antes de permitir a atualização das informações.
+3. O sistema deve exibir mensagens de erro específicas caso algum campo não esteja preenchido corretamente ou esteja em branco.
+4.O botão "Atualizar" deve salvar as alterações feitas pelo usuário e confirmar a atualização com uma mensagem de sucesso.
+5. O sistema deve garantir que o email e CPF fornecidos sejam únicos (não esteja em uso por outro usuário).
+6. O sistema deve permitir a modificação dos dados sem precisar informar a senha.
+7. O sistema deve permitir que o usuário visualize e atualize os seguintes campos de endereço:
+   - CEP
+   - Endereço
+   - Número da residência
+   - Bairro
+   - Complemento (opcional)
+   - Cidade
+   - Estado
+8. Todos os campos obrigatórios, como ‘CEP’, ‘Endereço’, ‘Número da residência’, ‘Bairro’, ‘Cidade’ e ‘Estado’, devem ser preenchidos corretamente antes de permitir a atualização.
+9. O sistema deve permitir que o usuário cadastre novas formas de pagamento (cartões de crédito ou débito) com os seguintes campos:
+   - Nome no cartão
+   - Número do cartão
+   - CVV
+   - Categoria (ex.: Crédito, Débito)
+   - Data de expedição
+10. O sistema deve validar os campos de pagamento, como o formato correto do número do cartão, validade e CVV.
+11. O sistema deve permitir que o usuário remova ou edite formas de pagamento já cadastradas.
+12. O sistema deve oferecer uma opção para definir um cartão padrão para pagamentos futuros.
+13. O sistema deve exibir mensagens de erro específicas para cada campo inválido ou faltante no formulário de endereço.
+14. O botão "Atualizar" deve salvar as alterações feitas nos dados de endereço e confirmar a atualização com uma mensagem de sucesso.
+15. O sistema deve permitir que o usuário visualize uma lista de pedidos realizados anteriormente, exibindo os seguintes campos:
+   - Nome do produto ou serviço
+   - Valor do pedido
+   - Status do pedido (ex.: Processando, Enviado, Entregue, Cancelado)
+   - Data da realização do pedido
+16. O sistema deve exibir o status atualizado dos pedidos, mostrando informações em tempo real (sincronização com o banco de dados).
+
+## User Story: Página individual do usuário  
+Como um usuário autenticado, eu quero poder visualizar e atualizar meus dados pessoais na minha conta, para manter minhas informações sempre corretas e atualizadas.
+
+## Critérios de Aceitação:
+1. Todos os campos obrigatórios devem estar preenchidos corretamente antes de permitir a atualização.
+2. O campo de ‘Gênero’ deve ser opcional ou ter uma lista de opções, como "Masculino", "Feminino", "Outro", etc.
+3. O campo ‘Complemento’ deve ser opcional e não impedir a atualização caso esteja em branco.
+4. O usuário deve poder visualizar, editar ou excluir cartões já cadastrados com facilidade.
+5. Após a atualização bem-sucedida, o sistema deve exibir uma mensagem de confirmação e manter os dados atualizados.
+6. O botão "Atualizar" deve estar desativado até que haja alterações nos campos preenchidos pelo usuário.
+7. O usuário deve poder visualizar uma lista com todos os pedidos que fez, incluindo o nome do produto, valor, status e data.
+8. O sistema deve exibir o status atualizado dos pedidos de forma precisa e em tempo real.
 
 ## Carrinho de Compras
 
