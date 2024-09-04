@@ -297,3 +297,29 @@ Como um usuário de um site de compras, eu quero visualizar todos os detalhes da
 6. O valor final do pedido deve refletir todos os custos e descontos, sendo exibido como "Total do Pedido".
 7. O botão "Finalizar Compra" deve redirecionar o usuário para uma página de confirmação de pedido, validando todas as informações inseridas.
 
+# Página de Adicionar Produto
+### Protótipo
+![Imagem](/fotos/AdicionarProduto.png)
+
+## Requisitos
+
+1. Exibir um formulário para que o vendedor possa adicionar um novo produto ao catálogo, com campos para Nome do Produto, Descrição, Preço, Preço em Promoção, Quantidade em Estoque, Porcentagem do Frete, Categoria, Dados do Produto, e Imagens.
+2. Incluir validação nos campos de entrada para garantir que os dados inseridos sejam consistentes e corretos, como valores numéricos no campo de Preço e Porcentagem do Frete.
+3. Permitir o upload de até quatro imagens por produto, exibindo miniaturas das imagens carregadas.
+4. Exibir uma confirmação de sucesso ao salvar um novo produto, ou mensagens de erro específicas caso algum campo obrigatório não esteja preenchido corretamente.
+5. Facilitar a navegação para outras seções importantes, como “Meus Produtos”, “Configurações” e “Faturamento” após o salvamento bem-sucedido de um produto.
+
+## User Story: Adicionar Produto
+
+Como vendedor, eu quero adicionar um novo produto ao meu catálogo preenchendo um formulário detalhado, para que eu possa listar e vender este produto na minha loja.
+
+## Critérios de Aceitação:
+
+1. O formulário de adição de produto deve incluir campos para Nome do Produto, Descrição, Preço, Preço em Promoção, Quantidade em Estoque, Porcentagem do Frete, Categoria, Dados do Produto, e Imagens.
+2. Todos os campos obrigatórios devem ser validados antes de permitir o salvamento do produto.
+3. O campo "Preço" deve aceitar apenas valores numéricos com duas casas decimais, e o campo "Porcentagem do Frete" deve aceitar valores numéricos com uma casa decimal.
+4. O sistema deve permitir o upload de até quatro imagens por produto, com visualização de miniaturas.
+5. O botão "Salvar" deve estar desabilitado até que todos os campos obrigatórios sejam preenchidos e pelo menos uma imagem seja carregada.
+6. Ao clicar em "Salvar", se todos os dados estiverem corretos, o sistema deve exibir uma confirmação de sucesso e o produto deve ser adicionado ao catálogo.
+7. Caso haja erros nos campos, o sistema deve exibir mensagens de erro específicas ao lado dos campos problemáticos, impedindo o salvamento do produto até que todos os erros sejam corrigidos.
+
