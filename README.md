@@ -25,8 +25,161 @@ Edeílson Milhomem
   <tr>
     <td>Dallyla de Moraes Sousa</td>
   </tr>
+<table border="1">
+    <tr>
+        <th>Nome do Projeto: Express Loja Online</th>
+        <th>Gerente do Projeto</th>
+        <th>Início</th>
+        <th>Fim</th>
+        <th>Entregável do Projeto</th>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <th>Tarefa</th>
+        <th>Tipo de Funcionalidade</th>
+        <th>Responsável</th>
+        <th>Data de Início</th>
+        <th>Data de Término</th>
+        <th>Duração (em dias)</th>
+        <th>Status</th>
+        <th>Notas</th>
+    </tr>
+    <tr>
+        <td>SPRINT 1</td>
+        <td colspan="7"></td>
+    </tr>
+    <tr>
+        <td>Funcionalidade 1</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>15</td>
+        <td>Ainda Não Feito</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Funcionalidade 2</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>15</td>
+        <td>Ainda Não Feito</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Funcionalidade 3</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>15</td>
+        <td>Ainda Não Feito</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>SPRINT 2: Página Principal e Página Individual</td>
+        <td colspan="7"></td>
+    </tr>
+    <tr>
+        <td>Listagem de Produtos</td>
+        <td>Interface do Usuário (UI)</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>15</td>
+        <td>Ainda Não Feito</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Sistema de Busca</td>
+        <td>Busca e Navegação</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>15</td>
+        <td>Ainda Não Feito</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Filtros de Produtos</td>
+        <td>Filtragem e Pesquisa</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>15</td>
+        <td>Ainda Não Feito</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Detalhes do Produto</td>
+        <td>Página de Detalhes do Produto</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>15</td>
+        <td>Ainda Não Feito</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Imagens do Produto</td>
+        <td>Galeria de Imagens</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>15</td>
+        <td>Ainda Não Feito</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Preço e Opções de Compra</td>
+        <td>Opções de Compra</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>15</td>
+        <td>Ainda Não Feito</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Desenvolvimento de Filtros</td>
+        <td>Filtragem e Pesquisa</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>15</td>
+        <td>Ainda Não Feito</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Testes de Navegação</td>
+        <td>Testes de Navegação</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>15</td>
+        <td>Ainda Não Feito</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Testes de Exibição</td>
+        <td>Testes de Interface</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>15</td>
+        <td>Ainda Não Feito</td>
+        <td></td>
+    </tr>
 </table>
-
+  
 # SPRINTS
 ## Sprint 1: Configuração Inicial e Infraestrutura
 Objetivo: Configurar o ambiente de desenvolvimento, banco de dados, autenticação e autorização.
