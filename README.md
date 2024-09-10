@@ -51,22 +51,12 @@ Edeílson Milhomem
         <th>Notas</th>
     </tr>
     <tr>
-        <td>SPRINT 1</td>
+        <td>SPRINT 1: Configuração Inicial e Infraestrutura</td>
         <td colspan="7"></td>
     </tr>
     <tr>
-        <td>Funcionalidade 1</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td>15</td>
-        <td>Ainda Não Feito</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Funcionalidade 2</td>
-        <td></td>
+        <td>Configuração do servidor</td>
+        <td>Infraestrutura</td>
         <td></td>
         <td></td>
         <td></td>
@@ -75,8 +65,78 @@ Edeílson Milhomem
         <td></td>
     </tr>
     <tr>
-        <td>Funcionalidade 3</td>
+        <td>Configuração do banco de dados</td>
+        <td>Infraestrutura</td>
         <td></td>
+        <td></td>
+        <td></td>
+        <td>15</td>
+        <td>Ainda Não Feito</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Implementação do sistema de login</td>
+        <td>Autenticação e Autorização</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>15</td>
+        <td>Ainda Não Feito</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Implementação do sistema de cadastro</td>
+        <td>Cadastro de Usuário</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>15</td>
+        <td>Ainda Não Feito</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Validação de email e senha no login</td>
+        <td>Autenticação e Validação</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>15</td>
+        <td>Ainda Não Feito</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Validação dos campos obrigatórios no cadastro</td>
+        <td>Validação e Segurança/td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>15</td>
+        <td>Ainda Não Feito</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Verificação de email já registrado</td>
+        <td>Validação e Feedback do Usuário/td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>15</td>
+        <td>Ainda Não Feito</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Integração do backend com o frontend</td>
+        <td>Integração/td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>15</td>
+        <td>Ainda Não Feito</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Testes de login e cadastro</td>
+        <td>Testes de Autenticação e Cadastro/td>
         <td></td>
         <td></td>
         <td></td>
