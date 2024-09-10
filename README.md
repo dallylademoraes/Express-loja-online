@@ -55,17 +55,7 @@ Edeílson Milhomem
         <td colspan="7"></td>
     </tr>
     <tr>
-        <td>Configuração do servidor</td>
-        <td>Infraestrutura</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td>15</td>
-        <td>Ainda Não Feito</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Configuração do banco de dados</td>
+        <td>Configuração do servidor e banco de dados</td>
         <td>Infraestrutura</td>
         <td></td>
         <td></td>
