@@ -77,7 +77,7 @@ Edeílson Milhomem
     <tr>
         <td>Implementação do sistema de login</td>
         <td>Autenticação e Autorização</td>
-        <td></td>
+        <td>Heloisa Rolins</td>
         <td></td>
         <td></td>
         <td>15</td>
@@ -97,7 +97,7 @@ Edeílson Milhomem
     <tr>
         <td>Validação de email e senha no login</td>
         <td>Autenticação e Validação</td>
-        <td></td>
+        <td>Heloisa Rolins</td>
         <td></td>
         <td></td>
         <td>15</td>
@@ -137,7 +137,7 @@ Edeílson Milhomem
     <tr>
         <td>Testes de login e cadastro</td>
         <td>Testes de Autenticação e Cadastro</td>
-        <td></td>
+        <td>Heloisa Rolins</td>
         <td></td>
         <td></td>
         <td>15</td>
