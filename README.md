@@ -106,7 +106,7 @@ Edeílson Milhomem
     </tr>
     <tr>
         <td>Validação dos campos obrigatórios no cadastro</td>
-        <td>Validação e Segurança/td>
+        <td>Validação e Segurança</td>
         <td></td>
         <td></td>
         <td></td>
@@ -116,7 +116,7 @@ Edeílson Milhomem
     </tr>
     <tr>
         <td>Verificação de email já registrado</td>
-        <td>Validação e Feedback do Usuário/td>
+        <td>Validação e Feedback do Usuário</td>
         <td></td>
         <td></td>
         <td></td>
@@ -126,7 +126,7 @@ Edeílson Milhomem
     </tr>
     <tr>
         <td>Integração do backend com o frontend</td>
-        <td>Integração/td>
+        <td>Integração</td>
         <td></td>
         <td></td>
         <td></td>
@@ -136,7 +136,7 @@ Edeílson Milhomem
     </tr>
     <tr>
         <td>Testes de login e cadastro</td>
-        <td>Testes de Autenticação e Cadastro/td>
+        <td>Testes de Autenticação e Cadastro</td>
         <td></td>
         <td></td>
         <td></td>
