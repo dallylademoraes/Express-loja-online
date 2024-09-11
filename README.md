@@ -25,6 +25,8 @@ Edeílson Milhomem
   <tr>
     <td>Dallyla de Moraes Sousa</td>
   </tr>
+
+  # Sprint Planning
 <table border="1">
     <tr>
         <th>Nome do Projeto: Express Loja Online</th>
