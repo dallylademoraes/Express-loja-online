@@ -55,7 +55,7 @@ Edeílson Milhomem
         <th>Notas</th>
     </tr>
     <tr>
-        <td>SPRINT 1: Configuração Inicial e Infraestrutura</td>
+        <td>SPRINT 1: Configuração Inicial e Infraestrutura; Página Principal e Página Individual</td>
         <td colspan="7"></td>
     </tr>
     <tr>
@@ -137,10 +137,6 @@ Edeílson Milhomem
         <td>15</td>
         <td>Ainda Não Feito</td>
         <td></td>
-    </tr>
-    <tr>
-        <td>SPRINT 2: Página Principal e Página Individual</td>
-        <td colspan="7"></td>
     </tr>
     <tr>
         <td>Listagem de Produtos</td>
