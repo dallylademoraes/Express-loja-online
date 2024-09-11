@@ -27,6 +27,8 @@ Edeílson Milhomem
   </tr>
 </table>
 
+## Descrição
+O nosso projeto é uma loja online batizada de Express.com, com o nicho de tecnologia.
   ## Sprint Planning
 <table border="1">
     <tr>
