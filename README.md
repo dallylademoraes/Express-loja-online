@@ -28,6 +28,7 @@ Edeílson Milhomem
 <table border="1">
     <tr>
         <th>Nome do Projeto: Express Loja Online</th>
+        <th>Feature</th>
         <th>Gerente do Projeto</th>
         <th>Início</th>
         <th>Fim</th>
@@ -141,7 +142,7 @@ Edeílson Milhomem
     <tr>
         <td>Listagem de Produtos</td>
         <td>Interface do Usuário (UI)</td>
-        <td></td>
+        <td>Dallyla de Moraes</td>
         <td></td>
         <td></td>
         <td>15</td>
@@ -151,7 +152,7 @@ Edeílson Milhomem
     <tr>
         <td>Sistema de Busca</td>
         <td>Busca e Navegação</td>
-        <td></td>
+        <td>Dallyla de Moraes</td>
         <td></td>
         <td></td>
         <td>15</td>
@@ -161,12 +162,13 @@ Edeílson Milhomem
     <tr>
         <td>Filtros de Produtos</td>
         <td>Filtragem e Pesquisa</td>
-        <td></td>
+        <td>Dallyla de Moraes</td>
         <td></td>
         <td></td>
         <td>15</td>
         <td>Ainda Não Feito</td>
-        <td></td>
+        <td>Adicionar filtros por categoria, preço, popularidade, etc.
+            Permitir seleção múltipla e aplicação de filtros simultâneos.</td>
     </tr>
     <tr>
         <td>Detalhes do Produto</td>
@@ -206,7 +208,8 @@ Edeílson Milhomem
         <td></td>
         <td>15</td>
         <td>Ainda Não Feito</td>
-        <td></td>
+        <td>Criar filtros interativos e atualizáveis (checkboxes, sliders, dropdowns).
+            Garantir que a aplicação de múltiplos filtros funcione corretamente.</td>
     </tr>
     <tr>
         <td>Testes de Navegação</td>
