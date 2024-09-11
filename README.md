@@ -77,7 +77,7 @@ Edeílson Milhomem
     <tr>
         <td>Implementação do sistema de cadastro</td>
         <td>Cadastro de Usuário</td>
-        <td></td>
+        <td>Neci Silva</td>
         <td></td>
         <td></td>
         <td>15</td>
@@ -97,7 +97,7 @@ Edeílson Milhomem
     <tr>
         <td>Validação dos campos obrigatórios no cadastro</td>
         <td>Validação e Segurança</td>
-        <td></td>
+        <td>Neci Silva</td>
         <td></td>
         <td></td>
         <td>15</td>
@@ -107,7 +107,7 @@ Edeílson Milhomem
     <tr>
         <td>Verificação de email já registrado</td>
         <td>Validação e Feedback do Usuário</td>
-        <td></td>
+        <td>Neci Silva</td>
         <td></td>
         <td></td>
         <td>15</td>
