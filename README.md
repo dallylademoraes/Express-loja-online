@@ -61,7 +61,7 @@ Edeílson Milhomem
     <tr>
         <td>Configuração do servidor e banco de dados</td>
         <td>Infraestrutura</td>
-        <td></td>
+        <td>Luís Gustavo</td>
         <td></td>
         <td></td>
         <td>15</td>
@@ -121,7 +121,7 @@ Edeílson Milhomem
     <tr>
         <td>Integração do backend com o frontend</td>
         <td>Integração</td>
-        <td></td>
+        <td>Luís Gustavo</td>
         <td></td>
         <td></td>
         <td>15</td>
@@ -176,7 +176,7 @@ Edeílson Milhomem
     <tr>
         <td>Detalhes do Produto</td>
         <td>Página de Detalhes do Produto</td>
-        <td></td>
+        <td>Luís Gustavo</td>
         <td></td>
         <td></td>
         <td>15</td>
@@ -186,7 +186,7 @@ Edeílson Milhomem
     <tr>
         <td>Imagens do Produto</td>
         <td>Galeria de Imagens</td>
-        <td></td>
+        <td>Mara Emanuella</td>
         <td></td>
         <td></td>
         <td>15</td>
@@ -196,7 +196,7 @@ Edeílson Milhomem
     <tr>
         <td>Preço e Opções de Compra</td>
         <td>Opções de Compra</td>
-        <td></td>
+        <td>Mara Emanuella</td>
         <td></td>
         <td></td>
         <td>15</td>
@@ -207,7 +207,7 @@ Edeílson Milhomem
     <tr>
         <td>Desenvolvimento de Filtros</td>
         <td>Filtragem e Pesquisa</td>
-        <td></td>
+        <td>Mara Emanuella</td>
         <td></td>
         <td></td>
         <td>15</td>
@@ -218,7 +218,7 @@ Edeílson Milhomem
     <tr>
         <td>Testes de Navegação</td>
         <td>Testes de Navegação</td>
-        <td></td>
+        <td>Luís Gustavo</td>
         <td></td>
         <td></td>
         <td>15</td>
@@ -229,7 +229,7 @@ Edeílson Milhomem
     <tr>
         <td>Testes de Exibição</td>
         <td>Testes de Interface</td>
-        <td></td>
+        <td>Mara Emanuella</td>
         <td></td>
         <td></td>
         <td>15</td>
