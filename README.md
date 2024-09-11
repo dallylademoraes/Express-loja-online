@@ -201,7 +201,8 @@ Edeílson Milhomem
         <td></td>
         <td>15</td>
         <td>Ainda Não Feito</td>
-        <td></td>
+        <td>Exibir preço atual e, se aplicável, preço promocional.
+            Incluir botões de adição ao carrinho e outras opções de compra.</td>
     </tr>
     <tr>
         <td>Desenvolvimento de Filtros</td>
@@ -222,7 +223,8 @@ Edeílson Milhomem
         <td></td>
         <td>15</td>
         <td>Ainda Não Feito</td>
-        <td></td>
+        <td>Verificar se a navegação entre a Página Principal e a Página Individual do Produto está funcionando corretamente.
+            Testar links e botões para garantir que direcionem para as páginas certas.</td>
     </tr>
     <tr>
         <td>Testes de Exibição</td>
@@ -232,7 +234,7 @@ Edeílson Milhomem
         <td></td>
         <td>15</td>
         <td>Ainda Não Feito</td>
-        <td></td>
+        <td>Testar a funcionalidade dos filtros e da busca para assegurar que os resultados são precisos e relevantes.</td>
     </tr>
 </table>
   
